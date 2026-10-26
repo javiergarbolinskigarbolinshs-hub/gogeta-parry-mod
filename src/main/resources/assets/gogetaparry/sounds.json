@@ -1,0 +1,10 @@
+{
+  "voice_parry": {
+    "subtitle": "subtitles.gogetaparry.voice_parry",
+    "sounds": [ { "name": "gogetaparry:voice/parry", "stream": false } ]
+  },
+  "voice_kick": {
+    "subtitle": "subtitles.gogetaparry.voice_kick",
+    "sounds": [ { "name": "gogetaparry:voice/kick", "stream": false } ]
+  }
+}

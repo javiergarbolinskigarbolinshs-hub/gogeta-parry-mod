@@ -1,0 +1,17 @@
+{
+  "item.gogetaparry.fusion_amulet": "Fusions-Amulett",
+  "item.gogetaparry.fusion_amulet.desc1": "In den Halsketten-Platz legen (Inventar, links) – ohne Curios: irgendwo im Inventar",
+  "item.gogetaparry.fusion_amulet.desc2": "5 Treffer laden den Kreis auf",
+  "item.gogetaparry.fusion_amulet.desc3": "Der nächste Angriff wird geparryt und gekontert",
+  "hud.gogetaparry.ready": "BEREIT!",
+  "key.categories.gogetaparry": "Gogeta Parry",
+  "key.gogetaparry.switch_hud": "Parry-Kreis verschieben",
+  "msg.gogetaparry.hud_top_right": "Parry-Kreis: oben rechts",
+  "msg.gogetaparry.hud_hotbar": "Parry-Kreis: unten bei der Hotbar",
+  "msg.gogetaparry.hud_crosshair": "Parry-Kreis: am Fadenkreuz",
+  "subtitles.gogetaparry.voice_parry": "Ki-Schrei (Parry)",
+  "subtitles.gogetaparry.voice_kick": "Ki-Schrei (Kick)",
+  "item.gogetaparry.ki_crystal": "Ki-Kristall",
+  "item.gogetaparry.ki_crystal.desc1": "Selten in Dungeons, Netherfestungen und Bastionen",
+  "item.gogetaparry.ki_crystal.desc2": "Daraus craftest du das Fusions-Amulett"
+}

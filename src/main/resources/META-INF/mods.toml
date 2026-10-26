@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved - (c) 2026 Havi Gamer"
+
+[[mods]]
+modId="gogetaparry"
+version="2.4.1"
+displayName="Gogeta Parry (Ki-Kristall Update)"
+authors="Havi Gamer"
+credits="Fan-Mod, inspiriert von Dragon Ball Legends (nicht offiziell)"
+description='''
+Werde 5x getroffen, der Kreis laedt sich auf - der naechste Angriff wird automatisch geparryt:
+Ki-Welle aus der Hand, dann fliegender Kick (Nahkampf) oder Ki-Blast (Fernkampf) wie Gogeta.
+'''
+
+[[dependencies.gogetaparry]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.gogetaparry]]
+    modId="curios"
+    mandatory=false
+    versionRange="[5.2,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.gogetaparry]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

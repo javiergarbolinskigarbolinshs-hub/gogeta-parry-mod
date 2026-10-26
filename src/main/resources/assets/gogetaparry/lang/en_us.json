@@ -1,0 +1,17 @@
+{
+  "item.gogetaparry.fusion_amulet": "Fusion Amulet",
+  "item.gogetaparry.fusion_amulet.desc1": "Wear it in the necklace slot (inventory, left) – without Curios: anywhere in your inventory",
+  "item.gogetaparry.fusion_amulet.desc2": "5 hits charge the circle",
+  "item.gogetaparry.fusion_amulet.desc3": "The next attack gets parried and countered",
+  "hud.gogetaparry.ready": "READY!",
+  "key.categories.gogetaparry": "Gogeta Parry",
+  "key.gogetaparry.switch_hud": "Move parry gauge",
+  "msg.gogetaparry.hud_top_right": "Parry gauge: top right",
+  "msg.gogetaparry.hud_hotbar": "Parry gauge: next to hotbar",
+  "msg.gogetaparry.hud_crosshair": "Parry gauge: crosshair",
+  "subtitles.gogetaparry.voice_parry": "Ki shout (parry)",
+  "subtitles.gogetaparry.voice_kick": "Ki shout (kick)",
+  "item.gogetaparry.ki_crystal": "Ki Crystal",
+  "item.gogetaparry.ki_crystal.desc1": "Rare loot in dungeons, nether fortresses and bastions",
+  "item.gogetaparry.ki_crystal.desc2": "Used to craft the Fusion Amulet"
+}
